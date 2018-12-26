@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="filelistener:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/filelistener_jar</output-path>
+    <root id="archive" name="filelistener.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="filelistener" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.4/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+    </root>
+  </artifact>
+</component>
